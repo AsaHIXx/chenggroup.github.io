@@ -50,7 +50,7 @@ bundle exec jekyll serve
 
 #### 1. 上传 wiki 至 Github 的 dev 分支
 
-
+![markdown-basic-gramma](https://tva1.sinaimg.cn/large/006y8mN6ly1g8qom3uma2j30ow0lrtbm.jpg)
 
 ## Markdown 语法
 
@@ -58,7 +58,7 @@ Markdown 是一种标记语言，和代码一样，可以用纯文本的形式�
 
 ### 基本语法
 
-![markdown-basic-gramma](assets/img/markdown-basic-gramma.jpg)
+
 
 可参考[markdown 教程](https://www.markdownguide.org/basic-syntax/)与[练习](https://www.markdowntutorial.com/)来学习基本语法。
 
